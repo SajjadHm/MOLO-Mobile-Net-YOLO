@@ -79,5 +79,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact
 For any questions, suggestions, or collaborations, please contact:
 
-- **Sajjad Hashembeiki**: sajjad.hashembeiki@gmail.com
+- **Sajjad Hashembeiki**: sajjadhashembeiki@gmail.com
 - **Deep Learning Lab, EE Department, Sharif University of Technology**
